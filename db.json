@@ -1,0 +1,189 @@
+{
+    "Students": 
+    [
+        {
+            "id" : 1,
+            "StudentNumber" : 2023555003,
+            "IdNumber" : 10010000002 ,
+            "Name" : "Derya", 
+            "Surname" : "Deniz",
+            "Faculty" : "MÜHENDİSLİK FAKÜLTESİ",
+            "Branch" : "BİLGİSAYAR MÜHENDİSLİĞİ PR. (İNGİLİZCE)",
+            "Mentor" :
+            { 
+                "Teacher" :
+                {
+                    "Id" : 1,
+                    "Name" : "Prof. Dr. UMUT ORHAN"
+                }
+            },
+            "AverageGrade" : 3.85,
+            "BirthPlace" : "BALCALI",
+            "BirthDay" : "25.05.2004",
+            "MotherName" : "DERYA",
+            "FatherName" : "DENİZ",
+            "SchoolTuition" : 1,
+            "Semester" : 3,
+            "UpperSemester" : 5,
+            "Teams" : {},
+            "Events" : 
+            [
+                {
+                    "CreationDate" : "11.11.2024",
+                    "Topic" : "İstanbul Medipol üniversitesi Kalite Akreditasyon Bülteni",
+                    "Notification" : "<a><span><p><span><span><span>İstanbul Medipol üniversitesi tarafından kalite ve bişey bişey. <\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span>Kalite Akreditasyon Bülteni bağlantı adresi: <\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><a href=\"https:\/\/www.medipol.edu.tr\/universite\/kalite-guvencesi\/kalite-akreditasyon-bulteni\">https:\/\/www.medipol.edu.tr\/universite\/kalite-guvencesi\/kalite-akreditasyon-bulteni<\/a> <\/span><\/span><\/span><\/p><span><a>",
+                    "EventUrl" : "https://events.cu.edu.tr/event/1149"
+                }
+            ],
+            "SelectedLesson":
+            [
+                {
+                    "LessonId": "CEN471",
+                    "LessonName": "Natural Language Processing",
+                    "Group" : "A",
+                    "LessonType" :"Bölüm Dersi",
+                    "Faculty" :"MÜHENDİSLİK FAKÜLTESİ",
+                    "Branch" :"BİLGİSAYAR MÜHENDİSLİĞİ PR. (İNGİLİZCE)",
+                    "EducationType" :"1. Öğretim",
+                    "AKTS":6,
+                    "LessonDate" : "Monday",
+                    "LessonStart" : "9:00",
+                    "LessonEnd" : "12:00",
+                    "Class" : {
+                        "Classroom": "Derslik 1",
+                        "Building" : "Bilgisayar Mühendisliği",
+                        "Floor" : 1
+                    },
+                    "LessonTeacher": {
+                        "Teacher":{
+                            "Id" : 1,
+                            "Name" : "Prof. Dr. UMUT ORHAN"
+                        }
+                    },
+                    "Grades" : 
+                    [
+                        {
+                            "Type" : "Vize",
+                            "Percentage" : "40",
+                            "Grade" : 60
+                        },
+                        {
+                            "Type" : "Vize",
+                            "Percentage" : "60",
+                            "Grade" : 75
+                        }
+                    ],
+                    "TotalGrade" : 69,
+                    "Notifications" :
+                    [
+                        {
+                            "CreationDate" : "10.11.2024",
+                            "NotificationTopic" : "Vize notlarınız açıklanmıştır" 
+                        }
+                    ],
+                    "Documents" : 
+                    [
+                        {
+                            "DownloadUrl" : "https://abs.cu.edu.tr/Dokumanlar/2024/471/25184752_vize.pdf",
+                            "Week" : 5,
+                            "description" : "Vize Notları ektedir",
+                            "DocumentType" : "VizeNotları",
+                            "DownloadDate" : "10.11.2024",
+                            "DocumentSize" : 0.23
+                        }
+                    ]
+                },
+                {
+                    "LessonId": "CEN419",
+                    "LessonName": "Introduction to Java Programming",
+                    "Group" : "A",
+                    "LessonType" : "Bölüm Dersi",
+                    "Faculty" : "MÜHENDİSLİK FAKÜLTESİ",
+                    "Branch" : "BİLGİSAYAR MÜHENDİSLİĞİ PR. (İNGİLİZCE)",
+                    "EducationType" : "1. Öğretim",
+                    "AKTS" : 6,
+                    "LessonDate" : "Monday",
+                    "LessonStart" : "13:00",
+                    "LessonEnd" : "15:00",
+                    "Class" : {
+                        "Classroom": "Derslik 1",
+                        "Building" : "Bilgisayar Mühendisliği",
+                        "Floor" : 0
+                    },
+                    "LessonTeacher": {
+                        "Teacher":{
+                            "Id" : 2,
+                            "Name" : "Öğr. Gör.Dr. HAVVA ESİN ÜNAL"
+                        }
+                    },
+                    "Grades" :
+                    [
+                        {
+                            "Type" : "Vize",
+                            "Percentage" : "40",
+                            "Grade" : 70
+                        },
+                        {
+                            "Type" : "Vize",
+                            "Percentage" : "60",
+                            "Grade" : 90
+                        }
+                    ],
+                    "TotalGrade" : 82,
+                    "Notifications" :
+                    [
+                        {
+                            "CreationDate" : "11.11.2024",
+                            "NotificationTopic" : "Vize notlarınız açıklanmıştır" 
+                        }
+                    ],
+                    "Documents" :
+                    [
+                        {
+                            "DownloadUrl" : "https://abs.cu.edu.tr/Dokumanlar/2024/419/973851254_week1.pdf",
+                            "Week" : 1,
+                            "description" : "1.Hafta",
+                            "DocumentType" : "DersNotları   ",
+                            "DownloadDate" : "27.09.2024",
+                            "DocumentSize" : 0.68
+                        },
+                        {
+                            "DownloadUrl" : "https://abs.cu.edu.tr/Dokumanlar/2024/419/738512154_week2.pdf",
+                            "Week" : 2,
+                            "description" : "2.Hafta",
+                            "DocumentType" : "DersNotları   ",
+                            "DownloadDate" : "27.09.2024",
+                            "DocumentSize" : 1.77
+                        },
+                        {
+                            "DownloadUrl" : "https://abs.cu.edu.tr/Dokumanlar/2024/419/313565294_week3.pdf",
+                            "Week" : 3,
+                            "description" : "3.Hafta",
+                            "DocumentType" : "DersNotları   ",
+                            "DownloadDate" : "3.10.2024",
+                            "DocumentSize" : 1.46
+                        }
+                    ]
+                }
+            ],
+            "Transcript" : [
+                {
+                    "Semester" : "2023 güz",
+                    "SelectedLesson" : [
+                        {
+                            "LessonId" : "CEN101",
+                            "LessonName" : "Introduction To Computer Engineering",
+                            "Grade" : "BB"
+                        },
+                        {
+                            "LessonId" : "CEN121",
+                            "LessonName" : "Mathematic",
+                            "Grade" : "AA"
+                        }
+                    ],
+                    "GNO" : "BA"
+                }
+            ]
+        }
+    ]
+}
